@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0b0a14"/>
+  <text x="32" y="44" font-family="'Space Grotesk',sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="#2de2e6">I</text>
+  <rect x="20" y="49" width="24" height="3" rx="1.5" fill="#ff3cac" transform="skewX(-24)"/>
+</svg>
